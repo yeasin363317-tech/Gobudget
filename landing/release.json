@@ -1,0 +1,13 @@
+{
+  "appName": "GoBudget",
+  "version": "1.0.0",
+  "releaseDate": "2026-10-31",
+  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663440588007/sQMdbkSbZMXbBLtD.apk",
+  "apkFileSize": "68,413,915 bytes (65.2 MB)",
+  "minimumAndroidVersion": "Android 7.0+ (API 24)",
+  "releaseNotes": [
+    "Standalone offline-first Android build with embedded JavaScript bundle",
+    "First-run local profile and first-wallet onboarding",
+    "Wallet currency preservation, keyboard-aware forms, and seeded categories"
+  ]
+}
