@@ -34,3 +34,6 @@ The landing page now follows the supplied black-morphism reference: sticky glass
 ## Dynamic marketing screenshots
 
 `marketing-preview.html` is the editable source for the populated preview set. It uses one consistent sample account across Dashboard, Wallets, Activity, Analytics and Settings, with matching USD totals, wallet balances, categories and recent transactions. The rendered `m-*.jpg` files are used by the landing page screenshot cards.
+
+
+The download CTA uses the GitHub Release asset URL so Android receives the exact filename **GoBudget.apk** instead of a CDN-generated random name.
