@@ -29,3 +29,8 @@ The primary CTA uses the clean artifact name **GoBudget.apk**. The hero marketin
 ## Reference-aligned edition
 
 The landing page now follows the supplied black-morphism reference: sticky glass navigation, monochrome premium palette, bento feature grid, metrics strip, floating device chips, horizontally scrollable mobile screenshot cards, and polished download/FAQ sections. The screenshot cards use the supplied marketing-style assets (`m-dashboard.jpg`, `m-wallets.jpg`, `m-expense-form.jpg`, `m-settings.jpg`).
+
+
+## Dynamic marketing screenshots
+
+`marketing-preview.html` is the editable source for the populated preview set. It uses one consistent sample account across Dashboard, Wallets, Activity, Analytics and Settings, with matching USD totals, wallet balances, categories and recent transactions. The rendered `m-*.jpg` files are used by the landing page screenshot cards.
