@@ -22,3 +22,10 @@ Open `http://localhost:4173`.
 Create a Vercel project with the repository root set to `landing/`. Use no build command and set the output/publish directory to `.`. The direct APK CTA is configured in `index.html` and points to the verified standalone release artifact in `release.json`.
 
 The page makes only claims supported by the current app: local-first core records, offline operation for everyday tracking, multiple wallets, transactions, budgets, savings goals, analytics, categories and settings. It explicitly explains that local data is not automatically encrypted or cloud-backed-up.
+
+The primary CTA uses the clean artifact name **GoBudget.apk**. The hero marketing dashboard is explicitly labelled as an illustrative preview; the product showcase uses frames from the supplied app recording.
+
+
+## Reference-aligned edition
+
+The landing page now follows the supplied black-morphism reference: sticky glass navigation, monochrome premium palette, bento feature grid, metrics strip, floating device chips, horizontally scrollable mobile screenshot cards, and polished download/FAQ sections. The screenshot cards use the supplied marketing-style assets (`m-dashboard.jpg`, `m-wallets.jpg`, `m-expense-form.jpg`, `m-settings.jpg`).
